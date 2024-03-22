@@ -1,6 +1,6 @@
 # fga
 
 ## What
-### Authz & Authn
+1. Authz & Authn
 - Authz is authorization
 - Authn is authentication
